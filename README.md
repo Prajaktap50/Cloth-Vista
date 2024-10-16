@@ -18,4 +18,6 @@ Responsive Design: The webpage seamlessly adapts to various screen sizes, ensuri
 
 Hover Effects: Hover effects for product images enhance the visual appeal and provide users with additional product information upon hovering.
 
+
 JavaScript Shopping Cart: A simple yet effective shopping cart functionality implemented using JavaScript allows users to manage their selected items and proceed to checkout.
+![Screenshot 2024-10-16 172216](https://github.com/user-attachments/assets/9677f4f7-29d3-496a-b4b3-7fc0137da728)
